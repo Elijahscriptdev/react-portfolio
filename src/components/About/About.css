@@ -1,0 +1,17 @@
+.about {
+    text-align: center;
+    color: #303030;
+    height: 60vh;
+    margin: 4rem auto;
+    font-weight: 500;
+}
+
+.about p {
+    font-size: 2rem;
+    
+}
+
+span {
+    font-weight: bold;
+    color: #FFA43C;
+}
