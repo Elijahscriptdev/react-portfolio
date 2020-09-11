@@ -3,8 +3,8 @@ import * as FaIcons from "react-icons/fa";
 import * as AiIcons from "react-icons/ai";
 import { Link } from "react-router-dom";
 import { SidebarData } from "../../data/SidebarData";
-import './Navbar.css';
-import { IconContext } from 'react-icons';
+import "./Navbar.css";
+import { IconContext } from "react-icons";
 
 const Navbar = () => {
   const [sidebar, setSidebar] = useState(false);
@@ -13,31 +13,36 @@ const Navbar = () => {
 
   return (
     <>
-      <IconContext.Provider value={{color: '#FFA43C' }}>
-      <div className="navbar">
-        <Link to="#" className="menu-bars">
-          <FaIcons.FaBars onClick={showSidebar} />
-        </Link>
-      </div>
-      <nav className={sidebar ? "nav-menu active" : "nav-menu"}>
-        <ul className="nav-menu-items" onClick={showSidebar}>
-          <li className="navbar-toggle">
-            <Link to="#" className="menu-bars">
-              <AiIcons.AiOutlineClose />
-            </Link>
-          </li>
-          {SidebarData.map((item, index) => {
-            return (
-              <li key={index} className={item.className}>
-                <Link to={item.path}>
-                  {item.icon}
-                  <span>{item.title}</span>
-                </Link>
-              </li>
-            );
-          })}
-        </ul>
-      </nav>
+      <IconContext.Provider value={{ color: "#FFA43C" }}>
+        <div className="navbar">
+          <Link to="#" className="menu-bars">
+            <FaIcons.FaBars onClick={showSidebar} />
+          </Link>
+            <h1 className="menu-bars logo">
+              <a href="#home">EO</a>
+            </h1>
+            {/* <img src="https://res.cloudinary.com/elijjaaahhhh/image/upload/v1599819964/logo_znmnxv.png" alt="logo" /> */}
+          
+        </div>
+        <nav className={sidebar ? "nav-menu active" : "nav-menu"}>
+          <ul className="nav-menu-items" onClick={showSidebar}>
+            <li className="navbar-toggle">
+              <Link to="#" className="menu-bars">
+                <AiIcons.AiOutlineClose />
+              </Link>
+            </li>
+            {SidebarData.map((item, index) => {
+              return (
+                <li key={index} className={item.className}>
+                  <Link to={item.path}>
+                    {item.icon}
+                    <span>{item.title}</span>
+                  </Link>
+                </li>
+              );
+            })}
+          </ul>
+        </nav>
       </IconContext.Provider>
     </>
   );
