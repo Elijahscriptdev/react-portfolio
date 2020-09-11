@@ -15,3 +15,21 @@
     font-size: 3rem;
     margin: 5rem 0;
 }
+
+.button a{
+    border: 2px solid #000;
+    padding: 10px;
+    color: #000;
+    margin: 10px;
+}
+
+.button a:hover{
+    text-decoration: none;
+    list-style-type: none;
+    background-color:  #FFA43C;
+    color: #FFF; 
+}
+
+.content {
+    margin: 40px auto;
+}
