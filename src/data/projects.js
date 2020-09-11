@@ -1,10 +1,12 @@
+import React from 'react'
 import project3 from '../assets/project2.png';
+import { FaGithub } from 'react-icons/fa';
 
 const PROJECTS = [
     {
         id: 1,
         title: 'Alpha-Blog',
-        description: 'built with Ruby on Rails',
+        description: <FaGithub /> ,
         link: 'https://alpha-blog-elijah.herokuapp.com/',
         image: project3
     },
@@ -34,7 +36,7 @@ const PROJECTS = [
         title: 'React Application',
         description: 'built with js',
         link: 'https://github.com/Elijahscriptdev',
-        image: project2
+        image: project3
     },
     {
         id: 6,
