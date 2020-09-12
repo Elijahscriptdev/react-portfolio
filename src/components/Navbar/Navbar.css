@@ -8,7 +8,7 @@
     background-color: #e8e8e9;
     position: fixed;
     top: 0px;
-    height: 60px;
+    /* height: 60px; */
     display: flex;
     justify-content: start;
     align-items: center;
