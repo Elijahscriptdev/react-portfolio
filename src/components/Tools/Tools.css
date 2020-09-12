@@ -1,0 +1,79 @@
+.tools {
+    margin-top: 50px;
+}
+
+.head {
+    font-weight: 600;
+    font-size: 3rem;
+    margin-top: 5rem;
+    margin-bottom: 2rem;
+}
+
+.tools ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.tools ul li {
+    margin: 0 20px;
+    list-style-type: none;
+    font-size: 2.5rem;
+}
+
+.rails {
+    color: #CC0000;
+}
+
+.ruby {
+    color: #430B0E;
+}
+
+.javascript {
+    color:#FBD601;
+}
+
+.react {
+    color: #00D8FF;
+}
+
+.html {
+    color: #E44D26;
+}
+
+.css {
+    color: #005BE0;
+}
+
+.bootstrap {
+    color: #563D7C;
+}
+
+.redux {
+    color: #563D7C;
+}
+
+.firebase {
+    color:#FBD601;
+}
+
+.heroku {
+    color: #563D7C;
+}
+
+.pg {
+    color: #336791;
+}
+
+.vsc {
+    color: #26AFF5;
+}
+
+@media screen and (min-width: 320px) and (max-width: 480px){
+    /* styles */
+    .toolsul li {
+        margin: 0 15px;
+        font-size: 2.0rem;
+    }
+}
