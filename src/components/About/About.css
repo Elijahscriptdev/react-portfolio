@@ -5,6 +5,10 @@
     font-weight: 500;
 }
 
+.about h1 {
+    margin-top: 2rem;  
+}
+
 .about p {
     font-size: 2rem;  
 }
