@@ -6,11 +6,11 @@
 
 .navbar {
     background-color: #e8e8e9;
-    position: fixed;
-    /* height: 60px; */
-    /* display: flex; */
-    /* justify-content: start; */
-    /* align-items: center; */
+    /* position: fixed; */
+    height: 60px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
 }
 
 .menu-bars {
