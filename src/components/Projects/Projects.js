@@ -46,7 +46,8 @@ const Projects = () => {
               <span> React, Hooks, Firebase, Google Auth </span>{" "}
             </p>{" "}
             <div className="button">
-              <a href="#"> View on Github </a> <a href="#"> Live Preview </a>{" "}
+              <a href="https://github.com/Elijahscriptdev/clothing-ecommerce"> View on Github </a> 
+              <a href="https://mary-clothing.netlify.app/"> Live Preview </a>{" "}
             </div>{" "}
             </div>
           </Col>{" "}
@@ -75,7 +76,8 @@ const Projects = () => {
               </span>{" "}
             </p>{" "}
             <div className="button">
-              <a href="#"> View on Github </a> <a href="#"> Live Preview </a>{" "}
+              <a href="https://github.com/Elijahscriptdev/Buzz_me"> View on Github </a> 
+              <a href="https://buzzlife.herokuapp.com/"> Live Preview </a>{" "}
             </div>{" "}
             </div>
           </Col>{" "}
@@ -132,7 +134,8 @@ const Projects = () => {
               <span> Html, CSS, JavaScript, Phaser 3 and Webpack </span>{" "}
             </p>{" "}
             <div className="button">
-              <a href="#"> View on Github </a> <a href="#"> Live Preview </a>{" "}
+              <a href="https://github.com/Elijahscriptdev/Runner"> View on Github </a> 
+              <a href="https://runner-rgp-game.netlify.app/"> Live Preview </a>{" "}
             </div>{" "}
             </div>
           </Col>{" "}
@@ -161,7 +164,8 @@ const Projects = () => {
               </span>{" "}
             </p>{" "}
             <div className="button">
-              <a href="#"> View on Github </a> <a href="#"> Live Preview </a>{" "}
+              <a href="https://github.com/Elijahscriptdev/ror-social-scaffold"> View on Github </a> 
+              <a href="https://stayintouchwithme.herokuapp.com/"> Live Preview </a>{" "}
             </div>{" "}
             </div>
           </Col>{" "}
@@ -219,9 +223,53 @@ const Projects = () => {
               </span>{" "}
             </p>{" "}
             <div className="button">
-              <a href="#"> View on Github </a> <a href="#"> Live Preview </a>{" "}
+              <a href="https://github.com/Elijahscriptdev/University_tech_app"> View on Github </a> 
+              <a href="https://schoolonlinenow.herokuapp.com/"> Live Preview </a>{" "}
             </div>{" "}
             </div>
+          </Col>{" "}
+          <Col
+            className="mx-auto"
+            xs={12}
+            md={5}
+            lg={5}
+            style={{
+              height: "350px",
+              margin: 10,
+            }}
+          >
+            <div className="content mt-5">
+            <h1> Personal Blog </h1>{" "}
+            <p>
+            This is a personal blog website..{" "}
+            </p>{" "}
+            <p>
+              Built with:
+              <span>
+                {" "}
+                HTML, CSS, React, Redux, Hooks{" "}
+              </span>{" "}
+            </p>{" "}
+            <div className="button">
+              <a href="https://github.com/Elijahscriptdev/react-blog"> View on Github </a> 
+              <a href="https://elijah-blog-react.netlify.app"> Live Preview </a>{" "}
+            </div>{" "}
+            </div>
+          </Col>{" "}
+          <Col
+            className="mx-auto ca"
+            xs={12}
+            md={5}
+            lg={5}
+            style={{
+              height: "350px",
+              margin: 10,
+            }}
+          >
+            <img
+              src="https://res.cloudinary.com/elijjaaahhhh/image/upload/v1596468490/FireShot_Capture_021_-_Personal_Blog_-_elijah-blog-react.netlify.app_dyltlm.png"
+              alt="img"
+            />
           </Col>{" "}
         </Row>{" "}
       </Container>{" "}
