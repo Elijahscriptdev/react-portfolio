@@ -46,8 +46,8 @@ const Projects = () => {
               <span> React, Hooks, Firebase, Google Auth </span>{" "}
             </p>{" "}
             <div className="button">
-              <a href="https://github.com/Elijahscriptdev/clothing-ecommerce"> View on Github </a> 
-              <a href="https://mary-clothing.netlify.app/"> Live Preview </a>{" "}
+              <a href="https://github.com/Elijahscriptdev/clothing-ecommerce" target="_blank"> View on Github </a> 
+              <a href="https://mary-clothing.netlify.app/" target="_blank"> Live Preview </a>{" "}
             </div>{" "}
             </div>
           </Col>{" "}
@@ -76,8 +76,8 @@ const Projects = () => {
               </span>{" "}
             </p>{" "}
             <div className="button">
-              <a href="https://github.com/Elijahscriptdev/Buzz_me"> View on Github </a> 
-              <a href="https://buzzlife.herokuapp.com/"> Live Preview </a>{" "}
+              <a href="https://github.com/Elijahscriptdev/Buzz_me" target="_blank"> View on Github </a> 
+              <a href="https://buzzlife.herokuapp.com/" target="_blank"> Live Preview </a>{" "}
             </div>{" "}
             </div>
           </Col>{" "}
@@ -134,8 +134,8 @@ const Projects = () => {
               <span> Html, CSS, JavaScript, Phaser 3 and Webpack </span>{" "}
             </p>{" "}
             <div className="button">
-              <a href="https://github.com/Elijahscriptdev/Runner"> View on Github </a> 
-              <a href="https://runner-rgp-game.netlify.app/"> Live Preview </a>{" "}
+              <a href="https://github.com/Elijahscriptdev/Runner" target="_blank"> View on Github </a> 
+              <a href="https://runner-rgp-game.netlify.app/" target="_blank"> Live Preview </a>{" "}
             </div>{" "}
             </div>
           </Col>{" "}
@@ -164,8 +164,8 @@ const Projects = () => {
               </span>{" "}
             </p>{" "}
             <div className="button">
-              <a href="https://github.com/Elijahscriptdev/ror-social-scaffold"> View on Github </a> 
-              <a href="https://stayintouchwithme.herokuapp.com/"> Live Preview </a>{" "}
+              <a href="https://github.com/Elijahscriptdev/ror-social-scaffold" target="_blank"> View on Github </a> 
+              <a href="https://stayintouchwithme.herokuapp.com/" target="_blank"> Live Preview </a>{" "}
             </div>{" "}
             </div>
           </Col>{" "}
@@ -223,8 +223,8 @@ const Projects = () => {
               </span>{" "}
             </p>{" "}
             <div className="button">
-              <a href="https://github.com/Elijahscriptdev/University_tech_app"> View on Github </a> 
-              <a href="https://schoolonlinenow.herokuapp.com/"> Live Preview </a>{" "}
+              <a href="https://github.com/Elijahscriptdev/University_tech_app" target="_blank"> View on Github </a> 
+              <a href="https://schoolonlinenow.herokuapp.com/" target="_blank"> Live Preview </a>{" "}
             </div>{" "}
             </div>
           </Col>{" "}
@@ -251,8 +251,8 @@ const Projects = () => {
               </span>{" "}
             </p>{" "}
             <div className="button">
-              <a href="https://github.com/Elijahscriptdev/react-blog"> View on Github </a> 
-              <a href="https://elijah-blog-react.netlify.app"> Live Preview </a>{" "}
+              <a href="https://github.com/Elijahscriptdev/react-blog" target="_blank"> View on Github </a> 
+              <a href="https://elijah-blog-react.netlify.app" target="_blank"> Live Preview </a>{" "}
             </div>{" "}
             </div>
           </Col>{" "}
