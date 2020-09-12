@@ -46,8 +46,8 @@ const Projects = () => {
               <span> React, Hooks, Firebase, Google Auth </span>{" "}
             </p>{" "}
             <div className="button">
-              <a href="https://github.com/Elijahscriptdev/clothing-ecommerce" target="_blank"> View on Github </a> 
-              <a href="https://mary-clothing.netlify.app/" target="_blank"> Live Preview </a>{" "}
+              <a href="https://github.com/Elijahscriptdev/clothing-ecommerce" target="_blank" rel="noopener noreferrer"> View on Github </a> 
+              <a href="https://mary-clothing.netlify.app/" target="_blank" rel="noopener noreferrer"> Live Preview </a>{" "}
             </div>{" "}
             </div>
           </Col>{" "}
@@ -76,8 +76,8 @@ const Projects = () => {
               </span>{" "}
             </p>{" "}
             <div className="button">
-              <a href="https://github.com/Elijahscriptdev/Buzz_me" target="_blank"> View on Github </a> 
-              <a href="https://buzzlife.herokuapp.com/" target="_blank"> Live Preview </a>{" "}
+              <a href="https://github.com/Elijahscriptdev/Buzz_me" target="_blank" rel="noopener noreferrer"> View on Github </a> 
+              <a href="https://buzzlife.herokuapp.com/" target="_blank" rel="noopener noreferrer"> Live Preview </a>{" "}
             </div>{" "}
             </div>
           </Col>{" "}
@@ -134,8 +134,8 @@ const Projects = () => {
               <span> Html, CSS, JavaScript, Phaser 3 and Webpack </span>{" "}
             </p>{" "}
             <div className="button">
-              <a href="https://github.com/Elijahscriptdev/Runner" target="_blank"> View on Github </a> 
-              <a href="https://runner-rgp-game.netlify.app/" target="_blank"> Live Preview </a>{" "}
+              <a href="https://github.com/Elijahscriptdev/Runner" target="_blank" rel="noopener noreferrer"> View on Github </a> 
+              <a href="https://runner-rgp-game.netlify.app/" target="_blank" rel="noopener noreferrer"> Live Preview </a>{" "}
             </div>{" "}
             </div>
           </Col>{" "}
@@ -164,8 +164,8 @@ const Projects = () => {
               </span>{" "}
             </p>{" "}
             <div className="button">
-              <a href="https://github.com/Elijahscriptdev/ror-social-scaffold" target="_blank"> View on Github </a> 
-              <a href="https://stayintouchwithme.herokuapp.com/" target="_blank"> Live Preview </a>{" "}
+              <a href="https://github.com/Elijahscriptdev/ror-social-scaffold" target="_blank" rel="noopener noreferrer"> View on Github </a> 
+              <a href="https://stayintouchwithme.herokuapp.com/" target="_blank" rel="noopener noreferrer"> Live Preview </a>{" "}
             </div>{" "}
             </div>
           </Col>{" "}
@@ -219,12 +219,12 @@ const Projects = () => {
               Built with:
               <span>
                 {" "}
-                HTML, CSS, Ruby, Ruby On Rails, SASS, Cloudinary{" "}
+                HTML, CSS, Ruby, Ruby On Rails, Material UI, Cloudinary{" "}
               </span>{" "}
             </p>{" "}
             <div className="button">
-              <a href="https://github.com/Elijahscriptdev/University_tech_app" target="_blank"> View on Github </a> 
-              <a href="https://schoolonlinenow.herokuapp.com/" target="_blank"> Live Preview </a>{" "}
+              <a href="https://github.com/Elijahscriptdev/University_tech_app" target="_blank" rel="noopener noreferrer"> View on Github </a> 
+              <a href="https://schoolonlinenow.herokuapp.com/" target="_blank" rel="noopener noreferrer"> Live Preview </a>{" "}
             </div>{" "}
             </div>
           </Col>{" "}
@@ -238,10 +238,11 @@ const Projects = () => {
               margin: 10,
             }}
           >
-            <div className="content mt-5">
+            <div className="content">
             <h1> Personal Blog </h1>{" "}
             <p>
-            This is a personal blog website..{" "}
+            This is a personal blog website with articles about Education, business,
+              Entertaiment, Technolgy, Sports.{" "}
             </p>{" "}
             <p>
               Built with:
@@ -251,8 +252,8 @@ const Projects = () => {
               </span>{" "}
             </p>{" "}
             <div className="button">
-              <a href="https://github.com/Elijahscriptdev/react-blog" target="_blank"> View on Github </a> 
-              <a href="https://elijah-blog-react.netlify.app" target="_blank"> Live Preview </a>{" "}
+              <a href="https://github.com/Elijahscriptdev/react-blog" target="_blank" rel="noopener noreferrer"> View on Github </a> 
+              <a href="https://elijah-blog-react.netlify.app" target="_blank" rel="noopener noreferrer"> Live Preview </a>{" "}
             </div>{" "}
             </div>
           </Col>{" "}
