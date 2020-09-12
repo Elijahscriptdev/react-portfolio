@@ -6,7 +6,7 @@ import "./Projects.css";
 
 const Projects = () => {
   return (
-    <div className="project">
+    <div className="project mt-5">
       <h2 className="text-center title"> Highlighted Projects </h2>{" "}
       <Container>
         <Row className="mx-auto align-items-center">
