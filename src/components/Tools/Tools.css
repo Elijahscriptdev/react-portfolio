@@ -63,12 +63,21 @@
 }
 
 .pg {
-    color: #336791;
+    color: #a0d2fa;
 }
 
 .vsc {
     color: #26AFF5;
 }
+
+.git .hide {
+    display: none;
+  }
+      
+  .git .hide:hover {
+    display: block;
+    color: red;
+  }
 
 @media screen and (min-width: 320px) and (max-width: 480px){
     /* styles */
