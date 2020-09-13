@@ -7,7 +7,7 @@ import "./Projects.css";
 const Projects = () => {
   return (
     <div className="project">
-      <h2 className="text-center title"> Highlighted Projects </h2>{" "}
+      <h2 className="text-center title head"> Highlighted Projects </h2>{" "}
       <Container>
         <Row className="mx-auto align-items-center">
           <Col
