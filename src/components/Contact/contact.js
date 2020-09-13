@@ -1,5 +1,5 @@
 import React from 'react'
-import { FaGithub } from 'react-icons/fa';
+// import { FaGithub } from 'react-icons/fa';
 import { AiFillLinkedin } from 'react-icons/ai';
 import { ImTwitter } from 'react-icons/im';
 import { GrMail } from 'react-icons/gr';
