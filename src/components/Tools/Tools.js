@@ -18,7 +18,7 @@ import { UncontrolledTooltip } from 'reactstrap';
 
 const Tools = () => {
   return(
-    <div className="tools">
+    <div className="tools" id="tools">
         <h1 className="head text-center">Technologies</h1>
         <div className="">
         <ul>

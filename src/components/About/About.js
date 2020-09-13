@@ -6,7 +6,7 @@ import SocialMediaIcons from "../social-media-icons/social-media-icons";
 
 const About = () => {
   return (
-    <div className="about">
+    <div className="about" id="about">
       <h1>Hello, I'm Elijah</h1>
       <p>I am a <span>fullstack developer</span></p>
         <p>I live in Nigeria and code every day</p>

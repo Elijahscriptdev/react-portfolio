@@ -8,7 +8,7 @@ import './contact.css';
 
 const ContactUs = () => {
   return(
-    <div className="social-media contact">
+    <div className="social-media contact" id="contactme">
         <h1 className="head text-center">Contact Me</h1>
         <ul>
             {/* <li><a href="https://github.com/Elijahscriptdev" target="_blank" rel="noopener noreferrer"><FaGithub style={{background: "white", color:"black"}} /></a></li> */}
