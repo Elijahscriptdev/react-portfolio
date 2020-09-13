@@ -6,7 +6,7 @@ import { GrMail } from 'react-icons/gr';
 import { FaAngellist } from 'react-icons/fa';
 import './contact.css';
 
-const ContactUs = (props) => {
+const ContactUs = () => {
   return(
     <div className="social-media contact">
         <h1 className="head text-center">Contact Me</h1>
