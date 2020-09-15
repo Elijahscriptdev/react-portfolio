@@ -273,6 +273,47 @@ const Projects = () => {
               alt="img"
             />
           </Col>{" "}
+          <Col
+            className="mx-auto ca"
+            xs={12}
+            md={5}
+            lg={5}
+            style={{
+              height: "350px",
+              margin: 10,
+            }}
+          >
+            <img
+              src="https://res.cloudinary.com/elijjaaahhhh/image/upload/v1600182699/dominous_elrdux.png"
+              alt="img"
+            />
+          </Col>{" "}
+          <Col
+            className="mx-auto"
+            xs={12}
+            md={5}
+            lg={5}
+            style={{
+              height: "350px",
+              margin: 10,
+            }}
+          >
+            <div className="content">
+            <h1> Domi*nous Restaurant Website </h1>{" "}
+            <p>
+            This is a meat restaurant website where people can order 
+            for the type of meat they are interested in.{" "}
+            </p>{" "}
+            <p>
+              Built with:
+              <span> HTML, CSS, Ruby, Ruby On Rails, Material UI, Cloudinary </span>{" "}
+            </p>{" "}
+            <div className="button">
+              <a href="https://github.com/Elijahscriptdev/online-store" target="_blank" rel="noopener noreferrer"> View on Github </a> 
+              <a href="https://my-restaurant-store.herokuapp.com/" target="_blank" rel="noopener noreferrer"> Live Preview </a>{" "}
+            </div>{" "}
+            </div>
+          </Col>{" "}
         </Row>{" "}
       </Container>{" "}
     </div>
