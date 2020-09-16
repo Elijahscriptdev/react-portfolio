@@ -3,7 +3,7 @@ import './info.css'
 
 const Info = (props) => {
   return(
-    <div className="text-center info" id="#info">
+    <div className="text-center info" id="info">
         <h1 className="head text-center">About Me</h1>
         <p className="containe">
         I am a recent graduate of Microverse, a remote 
