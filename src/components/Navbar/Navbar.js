@@ -61,8 +61,16 @@ const Navbar = () => {
               </a>
             </li>
             <li className='nav-text'>
+              <a href="#info" rel="link">
+              About Me
+              <span>
+              <IoIcons.IoMdPeople />
+              </span>
+              </a>
+            </li>
+            <li className='nav-text'>
               <a href="#tools" rel="link">
-              Technologies
+              Skills
               <span>
               <FaIcons.FaTools />
               </span>

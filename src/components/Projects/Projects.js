@@ -22,7 +22,7 @@ const Projects = () => {
             }}
           >
             <img
-              src="https://res.cloudinary.com/elijjaaahhhh/image/upload/v1599846909/clothing-ecommerce_tnekv9.png"
+              src="https://res.cloudinary.com/elijjaaahhhh/image/upload/v1600277554/ghg_tnnbjt.png"
               alt="img"
             />
           </Col>{" "}
@@ -39,12 +39,12 @@ const Projects = () => {
             <div className="content">
             <h1> Clothing Ecommerce Website </h1>{" "}
             <p>
-              This is an Ecommerce Website where users can buy clothes, Hats,
-              Jackets, Sneakers, Mens and Womens{" "}
+              This is an Ecommerce Website where users can buy mens and womens clothes, hats,
+              jackets and sneakers.{" "}
             </p>{" "}
             <p>
               Built with:
-              <span> React, Hooks, Firebase, Google Auth </span>{" "}
+              <span> React, Hooks, Firebase, Google Auth. </span>{" "}
             </p>{" "}
             <div className="button">
               <a href="https://github.com/Elijahscriptdev/clothing-ecommerce" target="_blank" rel="noopener noreferrer"> View on Github </a> 
@@ -65,8 +65,8 @@ const Projects = () => {
             <div className="content">
             <h1> BuzzLife </h1>{" "}
             <p>
-              BuzzLife is a website with articles about Education, business,
-              Entertaiment, Technolgy, Sports - anything that you can write
+              BuzzLife is a website with articles about education, business,
+              entertaiment, technolgy, sports - anything that you can write
               about.{" "}
             </p>{" "}
             <p>
@@ -125,8 +125,8 @@ const Projects = () => {
              <div className="content">
             <h1> Runner </h1>{" "}
             <p>
-              Runner is a single player based game.The game is intended to
-              determine how fast a player can collect enough stars.The game has
+              Runner is a single player based game. The game is intended to
+              determine how fast a player can collect enough stars. The game has
               infinite levels and the player is expected to collect 6000 stars
               to escape.{" "}
             </p>{" "}
@@ -153,9 +153,9 @@ const Projects = () => {
             <div className="content">
             <h1> Stay In Touch </h1>{" "}
             <p>
-              Stay In Touch is a facebook clone website where users can signup
+              Stay In Touch is a facebook-clone website where users can signup
               to create posts, make new friends, comment on any post of choice,
-              like posts and upload images..{" "}
+              like posts and upload images.{" "}
             </p>{" "}
             <p>
               Built with:
@@ -213,7 +213,7 @@ const Projects = () => {
             <div className="content">
             <h1> Techclub </h1>{" "}
             <p>
-              Techclub is a website for upcoming developers.Users can login and
+              Techclub is a website for upcoming developers. Users can login and
               enroll for software development courses.{" "}
             </p>{" "}
             <p>
@@ -242,8 +242,8 @@ const Projects = () => {
             <div className="content">
             <h1> Personal Blog </h1>{" "}
             <p>
-            This is a personal blog website with articles about Education, business,
-              Entertaiment, Technolgy, Sports.{" "}
+            This is a personal blog website with articles about education, business,
+              entertaiment, technolgy, sports.{" "}
             </p>{" "}
             <p>
               Built with:
@@ -284,7 +284,7 @@ const Projects = () => {
             }}
           >
             <img
-              src="https://res.cloudinary.com/elijjaaahhhh/image/upload/v1600182699/dominous_elrdux.png"
+              src="https://res.cloudinary.com/elijjaaahhhh/image/upload/v1600276547/FireShot_Capture_103_-_OnlineShop_-_my-restaurant-store.herokuapp.com_quqzgt.png"
               alt="img"
             />
           </Col>{" "}
