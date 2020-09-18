@@ -1,4 +1,5 @@
 import React from 'react'
+import Pdf from '../../assets/Elijah-Resume.pdf';
 import './info.css'
 
 const Info = (props) => {
@@ -19,7 +20,7 @@ const Info = (props) => {
         </p>
 
         <div className="button my-5">
-              <a href="https://docs.google.com/document/d/1teIudgGHrB6jnDTcsTRTTEnl2FHDz0i2Qqh8aP8elxs/edit?usp=sharing" target="_blank" rel="noopener noreferrer"> View Resume </a>
+              <a href={Pdf} target="_blank" rel="noopener noreferrer"> View Resume </a>
         </div>
     </div>
    )
