@@ -33,7 +33,7 @@ const About = () => {
           />
           </span>
         </p>
-        <p>Besides coding, I also love music and swiming!</p>
+        <p>Besides coding, I also love music and swimming!</p>
         <SocialMediaIcons />
       </div>
   );
