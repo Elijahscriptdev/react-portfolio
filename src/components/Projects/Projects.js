@@ -12,6 +12,48 @@ const Projects = () => {
       <Container>
         <Row className="mx-auto align-items-center">
         <Col
+            className="mx-auto"
+            xs={12}
+            md={5}
+            lg={5}
+            style={{
+              height: "350px",
+              margin: 10,
+            }}
+          >
+            <div className="content">
+            <h1> Travel With Benefits Website </h1>{" "}
+            <p>
+            This is a travel website where users login, book for a bus ticket, get booking history, search for available
+            buses travelling on a particular day.{" "}
+            </p>{" "}
+            <p>
+              Built with:
+              <span> React, Redux, Ruby On Rails, Postgresql and jwt authentication </span>{" "}
+            </p>{" "}
+            <div className="button">
+              <a> Locked </a> 
+              <a href="https://travelwithbenefit.herokuapp.com/" target="_blank" rel="noopener noreferrer"> Live Preview </a>{" "}
+            </div>{" "}
+            </div>
+          </Col>
+        <Col
+            className="mx-auto ca"
+            xs={12}
+            md={6}
+            lg={6}
+            style={{
+              height: "350px",
+              margin: 10,
+            }}
+          >
+            <img
+              src="https://res.cloudinary.com/elijjaaahhhh/image/upload/v1608069047/FireShot_Capture_128_-_Travel_With_Benefits_-_travelwithbenefit.herokuapp.com_hpr63v.png"
+              alt="img"
+            />
+          </Col>
+          
+        <Col
             className="mx-auto ca"
             xs={12}
             md={5}
